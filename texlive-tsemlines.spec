@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-tsemlines
 Version:	1.0
-Release:	10
+Release:	11
 Summary:	Support for the ancient \emline macro
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tsemlines/tsemlines.sty

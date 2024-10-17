@@ -3,7 +3,7 @@ Version:	23440
 Release:	2
 Summary:	Support for the ancient \emline macro
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tsemlines/tsemlines.sty
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tsemlines/tsemlines.sty
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tsemlines.r%{version}.tar.xz
 BuildArch:	noarch
